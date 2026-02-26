@@ -246,13 +246,10 @@ For questions, suggestions, or issues:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Data sourced from historical England weather records
 - Built with open-source libraries (pandas, matplotlib, seaborn)
 - Inspired by best practices in data science and scientific visualization
 
 ---
-
-**Last Updated**: February 2026  
-**Version**: 1.0.0
